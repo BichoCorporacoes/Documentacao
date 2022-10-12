@@ -1,26 +1,92 @@
-# Documentação das atividades
+# Documentação
+<p align="center">
+    <a href="#type">Typescript</a>  |  
+    <a href="#java">Java</a>
+</p>
 
-`Aluno : Gabriel Souza Bicho Nunes`
+
 
 | Fatec São José dos Campos||
 |:---: |:-:|
 | 1º Semestre | --- |
 | 2º Semestre | [Grupo-VPN](https://github.com/Grupo-VPN) |
 | 3º Semestre | [Bicho Corporações](https://github.com/BichoCorporacoes) |
+--- 
 
+<span id="type">
 
 ## Atividades TypeScript
 
-Atividade 1
-Atividade 2
+[![My Skills](https://skills.thijs.gg/icons?i=ts)](https://www.typescriptlang.org/id/download/)
+[![My Skills](https://skills.thijs.gg/icons?i=nodejs)](https://nodejs.org/en/download/)
+
+```cmd
+> para rodar as aplicações de typescript você irá necessitar ter o NodeJS instalado em sua maquina.
+
+```
+
+[Atividade 1](https://github.com/BichoCorporacoes/TypeScript_Um)
+```cmd
+> git clone https://github.com/BichoCorporacoes/TypeScript_Um
+> cd TypeScript_Um
+> npx tsc
+> node js\teste\index.js
+``` 
+[Atividade 2](https://github.com/BichoCorporacoes/TypeScript_Dois)
+```cmd
+> git clone https://github.com/BichoCorporacoes/TypeScript_Um
+> cd TypeScript_Dois
+> npx tsc
+> node js\app\app.js
+> navegue pelo software utilizando o CMD
+```
 Atividade 3
+```cmd
+...Buildando...
+```
 Atividade 4
+```cmd
+...Buildando...
+```
 Atividade 5
+```cmd
+...Buildando...
+```
+
+
+<span id="java">
+
 
 ## Atividades Java
+```cmd
+> para rodar as aplicações de Java você irá necessitar ter o java e alguma IDE instalada em sua maquina...
+e possivelmente lombok
+
+```
+
+[![My Skills](https://skills.thijs.gg/icons?i=java)](https://www.oracle.com/java/technologies/downloads/)
+[![My Skills](https://skills.thijs.gg/icons?i=eclipse)](https://www.eclipse.org/downloads/download.php?)
+[![My Skills](https://skills.thijs.gg/icons?i=spring)](https://spring.io/?)
+<br>
+[lombok](https://projectlombok.org/)
 
 Atividade 1
+```cmd
+...Buildando...
+```
 Atividade 2
+```cmd
+...Buildando...
+```
 Atividade 3
+```cmd
+...Buildando...
+```
 Atividade 4
+```cmd
+...Buildando...
+```
 Atividade 5
+```cmd
+...Buildando...
+```
