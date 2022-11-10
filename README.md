@@ -22,6 +22,7 @@
 [![My Skills](https://skills.thijs.gg/icons?i=react)](https://nodejs.org/en/download/)
 ```cmd
 > para rodar as aplicações de typescript você irá necessitar ter o NodeJS instalado em sua maquina.
+> utilize qualquer tipo de terminal para baixar os projetos
 
 ```
 
