@@ -108,17 +108,20 @@ e possivelmente lombok
 <br>
 [lombok](https://projectlombok.org/)
 
-Atividade 1
+[Atividade - 1](https://github.com/BichoCorporacoes/Java_um)
 ```cmd
-...Buildando...
+> git clone https://github.com/BichoCorporacoes/Java_um
+> Rode o projeto em algum lugar que rode Java
 ```
-Atividade 2
+[Atividade - 2](https://github.com/BichoCorporacoes/Java_dois)
 ```cmd
-...Buildando...
+> git clone https://github.com/BichoCorporacoes/Java_dois
+> Rode o projeto em algum lugar que rode Java
 ```
-Atividade 3
+[Atividade - 3](https://github.com/BichoCorporacoes/Java_Tres)
 ```cmd
-...Buildando...
+> git clone https://github.com/BichoCorporacoes/Java_Tres
+> Rode o projeto em algum lugar que rode Java
 ```
 Atividade 4
 ```cmd
