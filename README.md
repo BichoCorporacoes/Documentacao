@@ -89,6 +89,8 @@
 > git clone https://github.com/BichoCorporacoes/backend-TypeScript_Cinco
 > Rode o projeto em algum lugar que rode Java
 > Rode o Front-end
+> Usuario : Admin@bicho.com
+> Senha : admin
 ```
 
 
@@ -123,9 +125,10 @@ e possivelmente lombok
 > git clone https://github.com/BichoCorporacoes/Java_Tres
 > Rode o projeto em algum lugar que rode Java
 ```
-Atividade 4
+[Atividade - 4](https://github.com/BichoCorporacoes/Java_Quatro)
 ```cmd
-...Buildando...
+> git clone https://github.com/BichoCorporacoes/Java_Quatro
+> Rode o projeto em algum lugar que rode Java
 ```
 Atividade 5
 ```cmd
